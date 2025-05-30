@@ -29,15 +29,15 @@
 ---
 
 ## 💼 Skills
-   ### 🟦 .NET Fullstack Developer
+   ### 🟦 .NET Fullstack
       🔹 ASP.NET Core: MVC, API, EF Core
-      🔹 Blazor: SSR/CSR/Auto, MudBlazor, AntBlazor
-      🔹 Database: SQL Server & Postgres
-   ### 🟦 Frontend
+      🔹 Blazor: WebApp, WASM, MudBlazor, AntBlazor
+      🔹 Database: SQL Server, PostgresDb, MySQL
+   ### 🟦 Web Frontend
       🔹HTML/CSS/JS
       🔹ReactJs
       🔹NextJs
-   ### 🟦 Mobile
+   ### 🟦 Mobile App
       🔹Flutter
       🔹Android Studio
    ### 🟦 Tools
