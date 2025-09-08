@@ -35,7 +35,7 @@
    ### 🟦 .NET Fullstack
       🔹 Programming Languages: C#, Typescript, Dart
       🔹 Frontend: HTML/CSS/JS, Razor, Blazor, React, Flutter
-      🔹 Backend: ASP.NET Core MVC/WebAPI, EF Core
+      🔹 Backend: .NET Framework, .NET 6+, ASP.NET Core MVC/WebAPI, EF Core
       🔹 Database: SQL Server, PostgresDb
    ### 🟦 Tools
       🔹 IDE: Visual Studio, VSCode, Cursor
