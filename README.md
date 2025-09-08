@@ -21,25 +21,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
   <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" alt=".NET" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="Blazor" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Flutter" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
 </p>
 
 ---
 
 ## 💼 Skills
    ### 🟦 .NET Fullstack
-      🔹 ASP.NET Core: MVC, API, EF Core
-      🔹 Blazor: WebApp, WASM, MudBlazor, AntBlazor
-      🔹 Database: SQL Server, PostgresDb, MySQL
-   ### 🟦 Web Frontend
-      🔹HTML/CSS/JS
-      🔹ReactJs
-      🔹NextJs
-   ### 🟦 Mobile App
-      🔹Flutter
-      🔹Android Studio
+      🔹 Programming Languages: C#, Typescript, Dart
+      🔹 Frontend: HTML/CSS/JS, Razor, Blazor, React, Flutter
+      🔹 Backend: ASP.NET Core MVC/WebAPI, EF Core
+      🔹 Database: SQL Server, PostgresDb
    ### 🟦 Tools
       🔹 IDE: Visual Studio, VSCode, Cursor
       🔹 Git: GitHub, Bitbucket, Soucre Tree
