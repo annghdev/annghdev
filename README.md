@@ -1,19 +1,11 @@
 <!-- Top Section -->
-<table>
-  <tr>
-    <td width="160">
-      <img src="https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/494459216_122100659720858596_8414133555529942575_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeElkKql_Cqa2uVKI1f82c9rKea_5M-ZcfQp5r_kz5lx9OHH0kZ04Lv9ZcmjnZaxGoQ8pigVR6byWBzGYo0SSFrp&_nc_ohc=i3cByQ2Rj98Q7kNvwHZ3yM7&_nc_oc=AdnrdMKPfbTUaGaDUwHFgt21IwI5ZAuHy4Ab0JgZKf65kyTvggbgrHGN0WYPCQkrB1uCGdavl14ak89_IgipJKFM&_nc_zt=23&_nc_ht=scontent.fsgn5-5.fna&_nc_gid=jg5_wQ7RUl1zh2bt4tAHSw&oh=00_AfLHAM2mpjY2ZrMDP3wkRjqwRP_NsqhnuMSoPCZhxUgEAw&oe=683E508B" width="160" style="border-radius: 50%;" alt="Avatar">
-    </td>
-    <td>
-      <h1>Nguyen Huu An</h1>
-      <p>
-        💻 .NET Fullstack Developer | 🌐 Web & Mobile Engineer <br/>
-      </p>
-    </td>
-  </tr>
-</table>
 
----
+<h1>Nguyen Huu An</h1>
+<p>
+  🌐 .NET Fullstack Developer <br/>
+</p>
+<hr/>
+<br/>
 
 ## 🧰 Tech Stack
 
@@ -29,27 +21,28 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
 </p>
 
----
-
-## 💼 Skills
-   ### 🟦 .NET Fullstack
-      🔹 Programming Languages: C#, Typescript, Dart
-      🔹 Frontend: HTML/CSS/JS, Razor, Blazor, React, Flutter
-      🔹 Backend: .NET Framework, .NET 6+, ASP.NET Core MVC/WebAPI, EF Core
-      🔹 Database: SQL Server, PostgresDb
+   ### 🟦 Basic Skills
+      🔹 HTML/CSS/JavaScript, Bootstrap 5
+      🔹 React, TypeScript
+      🔹 Dart, Flutter
+      🔹 Java, Android Studio
+      
+   ### 🟦 Core Skills (~ 1 year)
+      🔹 C#, .NET 8+
+      🔹 ASP.NET Core MVC / Web API (RESTful)
+      🔹 EntityFramework Core
+      🔹 Blazor Web App
+      🔹 SQL Server, PostgreSQL
+      🔹 Clean Architecture
+      
    ### 🟦 Tools
-      🔹 IDE: Visual Studio, VSCode, Cursor
-      🔹 Git: GitHub, Bitbucket, Soucre Tree
+      🔹 IDE: Visual Studio, VS Code, Cursor, Android Studio
+      🔹 Version controll: Git, GitHub, Bitbucket
       🔹 Project Management: Jira, Trello
 ---
 
 ## 📫 Liên hệ
-
-<p>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+      🔹 Email: annghdev@gmail.com
+      🔹 Phone: 0867 662 945
+      🔹 Zalo: 0933 912 012
+      🔹 Linkedin: https://www.linkedin.com/in/annghdev
