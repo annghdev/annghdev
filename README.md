@@ -41,7 +41,7 @@
       🔹 Project Management: Jira, Trello
 ---
 
-## 📫 Liên hệ
+## 📫 Contact
       🔹 Email: annghdev@gmail.com
       🔹 Phone: 0867 662 945
       🔹 Zalo: 0933 912 012
